@@ -16,3 +16,4 @@ Are you ready to level up your skills in programmatic content creation? Join us 
 
 Don't miss this opportunity to expand your skillset and take your programmatic content creation to the next level. Reserve your spot today!
 
+Obrigado
