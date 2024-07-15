@@ -136,7 +136,13 @@ Intro: 5min
 
 ## Pontos turísticos
 
-- Não sei quais são
+-   Não sei quais são
+
+-   **Baixa-Chiado**: Muitos restaurantes e sítios para visitar.
+
+-   **Terreiro do Paço**
+
+-   **Sintra**
 
 ::: notes
 Setup account: 10min
