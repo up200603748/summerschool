@@ -134,15 +134,9 @@ Intro: 5min
 Intro: 5min
 :::
 
-## Git Basics
+## Pontos turísticos
 
--   **Repository**: A Git repository is a collection of files and their complete history of changes.
-
--   **Commit**: A commit is a snapshot of the repository at a specific point in time. It represents a set of changes made to the files.
-
--   **Branch**: A branch is a separate line of development. It allows you to work on different features or bug fixes without affecting the main codebase.
-
--   **Merge**: Merging combines changes from different branches into a single branch.
+- Não sei quais são
 
 ::: notes
 Setup account: 10min
