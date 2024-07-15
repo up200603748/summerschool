@@ -148,7 +148,7 @@ Intro: 5min
 Setup account: 10min
 :::
 
-## Git Workflow
+## Git Transports
 
 ::: columns
 ::: {.column width="40%"}
