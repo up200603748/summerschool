@@ -15,5 +15,3 @@ Are you ready to level up your skills in programmatic content creation? Join us 
 - Use of Quarto in integration with R Studio: Harness the power of Quarto, a cutting-edge document authoring and publishing platform, and learn how to integrate it with R Studio for a seamless workflow.
 
 Don't miss this opportunity to expand your skillset and take your programmatic content creation to the next level. Reserve your spot today!
-
-Obrigado!!
