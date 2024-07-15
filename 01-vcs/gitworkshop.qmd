@@ -168,14 +168,6 @@ Setup account: 10min
 Hands-on: 15min
 :::
 
-## Conclusion
+## Conclusao
 
-::: columns
-::: {.column width="40%"}
-Git is a powerful tool for version control and collaboration. Understanding its basics is essential for any software developer.
-:::
-
-::: {.column width="60%"}
-![More information on Git](images/paste-1.png){fig-align="center" width="400"}
-:::
-:::
+O melhor lugar de Lisboa é o Porto
